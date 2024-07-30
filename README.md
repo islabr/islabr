@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islabr
 - 👀 I’m interested in software engineering and hockey
-- 🌱 I’m currently learning to make discord bots
+- 🌱 I’m currently making playdate games
 - 💞️ I’m looking to collaborate on hockey related projects
 
 <!---
